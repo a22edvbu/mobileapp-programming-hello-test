@@ -40,7 +40,7 @@ Bilder läggs i samma mapp som markdown-filen.
 Först av allt skapade jag ett nytt GitHub konto som kommer användas för skolprojekt. Sedan forkade jag kursens repositary så jag får min egen kopia att arbeta med utan att påverka originalfilerna. Mitt egna repositary laddades ner genom GitHub Desktop, som gör att filerna alltid är uppdaterade med molnet hos GitHub. 
 Sedan öppnade jag filerna som ett projekt i Android Studio, där jag sedan ändrade texten “Hello” i filen strings.xml till “TjenaTjena”. En kort beskrivning skrevs där jag skrev ändringen och commitade och till sist pushade jag detta.
 
-![](Screenshot1.png)
+![](screenshot1.png)
 
 ```
 <resources>
