@@ -41,7 +41,7 @@ Först av allt skapade jag ett nytt GitHub konto som kommer användas för skolp
 Sedan öppnade jag filerna som ett projekt i Android Studio, där jag sedan ändrade texten “Hello” i filen strings.xml till “TjenaTjena”. En kort beskrivning skrevs där jag skrev ändringen och commitade och till sist pushade jag detta.
 
 ![](screenshot1.png)
-
+![](img.png)
 ```
 <resources>
     <string name="app_name">TjenaTjena</string>
